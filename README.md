@@ -1,5 +1,6 @@
 # Regression_house_price
 A machine learning project for predicting house prices using a dataset with features like area, number of rooms, and parking availability. The project implements Linear Regression, Polynomial Regression, and Support Vector Regression (SVR) models, with data preprocessing
+# House Price Prediction
 ## Overview
 
 This project aims to predict house prices using a dataset containing features such as area, number of rooms, parking, warehouse, elevator, and address. The project involves data preprocessing, exploratory data analysis (EDA), and the application of multiple machine learning models, including Linear Regression, Polynomial Regression, and Support Vector Regression (SVR). The models are evaluated using Mean Squared Error (MSE) and R² score to assess prediction accuracy.
