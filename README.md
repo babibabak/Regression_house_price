@@ -42,10 +42,10 @@ The dataset (house_price.csv) contains 3,473 house records with the following fe
     jupyter notebook house_price.ipynb
 ```
 ## Usage
-Load and preprocess the dataset (convert data types, handle missing values).
-Perform EDA to explore feature correlations and visualize data distributions.
-Train and evaluate Linear Regression, Polynomial Regression, and SVR models.
-Assess model performance using MSE and R² score.
+- Load and preprocess the dataset (convert data types, handle missing values).
+- Perform EDA to explore feature correlations and visualize data distributions.
+- Train and evaluate Linear Regression, Polynomial Regression, and SVR models.
+- Assess model performance using MSE and R² score.
 
 ## Model Performance
 - Linear Regression:
